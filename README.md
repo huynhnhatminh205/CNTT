@@ -7,6 +7,7 @@
 ## [bài tập 2] (https://www.jdoodle.com/embed/v0/5AxV)
 ## [bài tập 3] (https://www.jdoodle.com/embed/v0/5AyJ)
 ## [bài tập 4] (chưa làm)
+# if,switch
 ## [bài tập về nhà 1] (https://www.jdoodle.com/embed/v0/5FUu)
 ## [bài tập về nhà 2] (https://www.jdoodle.com/embed/v0/5FUg)
 # Bài kiểm tra
