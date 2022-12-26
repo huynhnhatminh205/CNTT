@@ -10,5 +10,6 @@
 # if,switch
 ## [bài tập về nhà 1] (https://www.jdoodle.com/embed/v0/5FUu)
 ## [bài tập về nhà 2] (https://www.jdoodle.com/embed/v0/5FUg)
+## [bài tập về nhà 4] (https://www.jdoodle.com/embed/v0/5FUD)
 # Bài kiểm tra
 ## [bài 1] (https://www.jdoodle.com/embed/v0/5F2u)
