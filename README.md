@@ -7,6 +7,6 @@
 ## [bài tập 2] (https://www.jdoodle.com/embed/v0/5AxV)
 ## [bài tập 3] (https://www.jdoodle.com/embed/v0/5AyJ)
 ## [bài tập 4] (chưa làm)
-## [bài tập về nhà 1] (https://www.jdoodle.com/embed/v0/5FU3)
+## [bài tập về nhà 1] (https://www.jdoodle.com/embed/v0/5FUu)
 # Bài kiểm tra
 ## [bài 1] (https://www.jdoodle.com/embed/v0/5F2u)
