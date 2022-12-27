@@ -1,5 +1,5 @@
 # Bài 2: Các câu lệnh đơn
-## [bài tập về nhà 1] ()
+## [bài tập về nhà 1] (https://www.jdoodle.com/embed/v0/5G2a)
 ## [bài tập về nhà 2] ()
 ## [bài tập về nhà 3] (chưa làm
 # Bài 3: Các câu lệnh rẽ nhánh
