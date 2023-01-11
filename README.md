@@ -17,4 +17,4 @@
 # Bài 5: Hàm
 ## [ bài tập 1](https://www.jdoodle.com/embed/v0/5HKR)
 # Bài 6: Mảng
-## [bài tập 1](https:/www.jdoodle.com/a/5ImY)
+## [bài tập 1](https://www.jdoodle.com/a/5ImY)
