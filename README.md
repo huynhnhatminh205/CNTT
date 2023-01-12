@@ -18,3 +18,4 @@
 ## [ bài tập 1](https://www.jdoodle.com/embed/v0/5HKR)
 # Bài 6: Mảng
 ## [bài tập 1](https://www.jdoodle.com/a/5ImY)
+# [Bài thi 12/1/2023](https://www.jdoodle.com/a/5IJn)
